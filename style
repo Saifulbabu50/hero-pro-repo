@@ -1,3 +1,14 @@
 header h1{
     color:red
 }
+div {
+    display: inline;
+    height: 10px;
+}
+h1{
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    height: 578px;
+    width: 7668px;
+}
