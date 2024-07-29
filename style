@@ -11,4 +11,6 @@ h1{
     font-style: italic;
     height: 578px;
     width: 7668px;
+    padding: 10px;
+    backdrop-filter: 560x;
 }
